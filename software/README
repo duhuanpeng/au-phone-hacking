@@ -1,0 +1,11 @@
+The source was compiled by Keil uv2 7.x, all project files used by keil have
+been removed.
+If you have a Keil toolchain and don't know how to build it, please feel free
+to contact me.
+I will make it works with sdcc or other free toolchain in the future.
+
+
+--------
+    duhuanpeng
+    2011/08/22
+
